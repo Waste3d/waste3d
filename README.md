@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/0f/95/63/0f9563e6b55b8a9f69d907c3f716a3e5.jpg" alt="dark aesthetic banner" width="100%"/>
+  <img src="https://i.pinimg.com/736x/19/84/24/1984245b273363770244ae5a1ab25b98.jpg" alt="dark aesthetic banner" width="100%"/>
 </p>
 
 
