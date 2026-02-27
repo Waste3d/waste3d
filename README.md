@@ -34,7 +34,7 @@ type Developer struct {
 func NewDeveloper() *Developer {
 	return &Developer{
 		Name: "Kolya",
-		Role: "Head of Development(Human Help), Go-developer",
+		Role: "Fullstack developer, Go-developer",
 		Skills: map[string][]string{
 			"Backend":    {"Python", "Go", "JavaScript"},
 			"Microservices": {"gRPC", "Gin", "NATS"},
